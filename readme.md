@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### Download Pre-trained Model
 
-1. Download the pre-trained generator model from [Google Drive Link]
+1. Download the pre-trained generator model from [[Google Drive Link to final_generator.pth](https://drive.google.com/file/d/1Be1mul1n4TR7oM037qDP3nApHkpHBiuF/view?usp=sharing)]
 2. Place the downloaded final_generator.pth file in the checkpoints/ directory
 
 ### How to Run
